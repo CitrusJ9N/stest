@@ -57,4 +57,4 @@ plugins:
 
 # URL関連
 domain: citrusj9n.github.io
-baseurl: https://citrusj9n.github.io/stest
+baseurl: /stest
